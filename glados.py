@@ -33,7 +33,7 @@ SKey = ""
 QKey = ""
 ktkey = ""
 msgs = ""
-datas = ""
+datas = "koa:sess=eyJ1c2VySWQiOjUxODIwOSwiX2V4cGlyZSI6MTc1NjMwNDIyNDkzNiwiX21heEFnZSI6MjU5MjAwMDAwMDB9; koa:sess.sig=4mYL7LkgAeEuSyQMoDr1SakXu0w;"
 message = ""
 # 检测推送
 if cs == 1:
