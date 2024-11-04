@@ -1,4 +1,4 @@
-# GLaDOS 自动签到，实现无限白嫖
+# GLaDOS 自动签到
 # Github Actions
 
 1. 点击右上角 **fork** 按钮
