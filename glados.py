@@ -33,7 +33,7 @@ SKey = ""
 QKey = ""
 ktkey = ""
 msgs = ""
-datas = "koa:sess=eyJ1c2VySWQiOjUxODIwOSwiX2V4cGlyZSI6MTc1NjMwNDIyNDkzNiwiX21heEFnZSI6MjU5MjAwMDAwMDB9; koa:sess.sig=4mYL7LkgAeEuSyQMoDr1SakXu0w;"
+datas = "koa:sess=eyJ1c2VySWQiOjU2NzAzMCwiX2V4cGlyZSI6MTc2NjkxMTk2NTMxMCwiX21heEFnZSI6MjU5MjAwMDAwMDB9; koa:sess.sig=1muh2E6krnlyL1v4iUuZ3N4lBWo;"
 message = ""
 # 检测推送
 if cs == 1:
